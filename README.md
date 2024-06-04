@@ -1,2 +1,2 @@
 # double_linked_list
-Realization of double linked list 
+implementation of double linked list 
